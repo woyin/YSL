@@ -1,0 +1,761 @@
+==================2020-01-21_09:03:01====================\nOn branch rosuH-patch-1
+Your branch is up to date with 'origin/rosuH-patch-1'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bird - American Dipper/
+	Bird - Canada Goose/
+	Birds - Dawn Chorus/
+	Boreal Chorus Frogs/
+	Crane (sandhill)/
+	Geyser - Beehive/
+	Geyser - Castle/
+	Geyser - Sawmill/
+	Grand Geyser/
+	Mountain Bluebird/
+	Singing Lake/
+	Western Meadow Lark/
+	Wilson's Snipe/
+
+nothing added to commit but untracked files present (use "git add" to track)\n=========================================================
+==================2020-01-21_09:52:10====================\nOn branch feat_add_action
+Your branch is up to date with 'origin/feat_add_action'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-01-21_09:55:02====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-03-08_04:15:09====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Common Raven/Sound Library - Common Raven.mp3
+	deleted:    Bird - Common Raven/Sound Library - Common Raven_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Bird - Killdeer/Sound Library - Killdeer.mp3
+	deleted:    Bird - Ruffed Grouse/Sound Library - Ruffed Grouse.mp3
+	deleted:    Bird - Ruffed Grouse/Sound Library - Ruffed Grouse_NPS_Neal Herbert_2014-05-25.jpg
+	deleted:    Bird - Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Bird - Warbling Vireo/Warbling Vireos.mp3
+	deleted:    Bird - Warbling Vireo/Warbling Vireos_NPS _ Neal Herbert_2015-07-05.jpg
+	deleted:    Castle Geyser/Sound Library - Castle Geyser.mp3
+	deleted:    Castle Geyser/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth.mp3
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth_NPS_Neal Herbert_2013-10-29.jpg
+	deleted:    Fire/Sound Library - Fire.mp3
+	deleted:    Fire/Sound Library - Fire_NPS_Jennifer Jerrett_2016-08-14.jpg
+	deleted:    Geyser - Grand/Sound Library - Grand Geyser.mp3
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bird - American Coots/
+	Bird - Bald Eagle/
+	Common Raven/
+	Geyser - Castle/
+	Grand Geyser/
+	Killdeer/
+	Ruffed Grouse/
+	The Dragon's Mouth/
+	Townsend's Solitaire/
+	Warbling Vireo/
+	Wildfire/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-03-13_02:07:58====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Geyser - Beehive/
+	Geyser - Grand/
+
+nothing added to commit but untracked files present (use "git add" to track)\n=========================================================
+==================2020-03-20_02:05:26====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-03-27_02:05:47====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    American Robin/Sound Library - American Robin.mp3
+	deleted:    American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Canada Goose/Canada Goose.mp3
+	deleted:    Bird - Common Loon/Common Loon.mp3
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane.mp3
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane_NPS_Neal Herbert_2015-04-25.jpg
+	deleted:    Bird - Western Meadow Lark/Western Meadow Lark.mp3
+	deleted:    Cliff Geyser/Sound Library - Cliff Geyser.mp3
+	deleted:    Cliff Geyser/Sound Library - Cliff Geyser_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Common Raven/Sound Library - Common Raven.mp3
+	deleted:    Common Raven/Sound Library - Common Raven_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Fountain Paint Pot/Sound Library - Fountain Paint Pot.mp3
+	deleted:    Fountain Paint Pot/Sound Library - Fountain Paint Pot_NPS_Neal Herbert_2014-05-01.jpg
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser.mp3
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Geyser - Veteran/Sound Library - Veteran Geyser.mp3
+	deleted:    Singing Lake/Sound Library - Singing Lake.mp3
+	deleted:    Singing Lake/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+	deleted:    The Dragon's Mouth/Sound Library - The Dragon's Mouth.mp3
+	deleted:    The Dragon's Mouth/Sound Library - The Dragon's Mouth_NPS_Neal Herbert_2013-10-29.jpg
+	deleted:    Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Warbling Vireo/Warbling Vireos.mp3
+	deleted:    Warbling Vireo/Warbling Vireos_NPS _ Neal Herbert_2015-07-05.jpg
+	deleted:    Wildfire/Sound Library - Fire.mp3
+	deleted:    Wildfire/Sound Library - Fire_NPS_Jennifer Jerrett_2016-08-14.jpg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bald Eagle/
+	Bird - American Robin/
+	Bird - Common Raven/
+	Bird - Townsend's Solitaire/
+	Bird - Warbling Vireo/
+	Canada Goose/
+	Castle Geyser/
+	Common Loon/
+	Dragon's Mouth Spring/
+	Fire/
+	Geyser - Cliff/
+	Mud Pots/
+	Sandhill Crane/
+	Veteran Geyser/
+	Western Meadow Lark/
+	Yellowstone Lake (singing)/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-04-03_02:05:53====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-04-10_02:05:06====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-04-17_02:05:01====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Castle Geyser/Sound Library - Castle Geyser.mp3
+	deleted:    Castle Geyser/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Common Loon/Common Loon.mp3
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth.mp3
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth_NPS_Neal Herbert_2013-10-29.jpg
+	deleted:    Fire/Sound Library - Fire.mp3
+	deleted:    Fire/Sound Library - Fire_NPS_Jennifer Jerrett_2016-08-14.jpg
+	deleted:    Geyser - Sawmill/Sound Library - Sawmill Geyser.mp3
+	deleted:    Geyser - Sawmill/Sound Library - Sawmill Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Sandhill Crane/Sound Library - Sandhill Crane.mp3
+	deleted:    Sandhill Crane/Sound Library - Sandhill Crane_NPS_Neal Herbert_2015-04-25.jpg
+	deleted:    Veteran Geyser/Sound Library - Veteran Geyser.mp3
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake.mp3
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bird - Bald Eagle/
+	Bird - Common Loon/
+	Bird - Sandhill Crane/
+	Frogs (boreal chorus)/
+	Geyser - Castle/
+	Geyser - Veteran/
+	Sawmill Geyser/
+	Singing Lake/
+	The Dragon's Mouth/
+	Townsend's Solitaire/
+	Wildfire/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-04-24_02:04:50====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-05-01_02:05:09====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-05-08_02:09:25====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-05-15_02:09:19====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Bird - American Robin/Sound Library - American Robin.mp3
+	deleted:    Bird - American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Common Loon/Common Loon.mp3
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird.mp3
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird_NPS _ Neal Herbert_2015-06-17.jpg
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane.mp3
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane_NPS_Neal Herbert_2015-04-25.jpg
+	deleted:    Bird - Warbling Vireo/Warbling Vireos.mp3
+	deleted:    Bird - Warbling Vireo/Warbling Vireos_NPS _ Neal Herbert_2015-07-05.jpg
+	deleted:    Birds - Dawn Chorus/Sound Library - Dawn Chorus.mp3
+	deleted:    Birds - Dawn Chorus/Sound Library - Dawn Chorus_NPS_Neal Herbert_2014-06-28.jpg
+	deleted:    Canada Goose/Canada Goose.mp3
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs.mp3
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser.mp3
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Geyser - Cliff/Sound Library - Cliff Geyser.mp3
+	deleted:    Geyser - Cliff/Sound Library - Cliff Geyser_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Killdeer/Sound Library - Killdeer.mp3
+	deleted:    Sawmill Geyser/Sound Library - Sawmill Geyser.mp3
+	deleted:    Sawmill Geyser/Sound Library - Sawmill Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Singing Lake/Sound Library - Singing Lake.mp3
+	deleted:    Singing Lake/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+	deleted:    The Dragon's Mouth/Sound Library - The Dragon's Mouth.mp3
+	deleted:    The Dragon's Mouth/Sound Library - The Dragon's Mouth_NPS_Neal Herbert_2013-10-29.jpg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	American Robin/
+	Bald Eagle/
+	Bird - Canada Goose/
+	Bird - Killdeer/
+	Boreal Chorus Frogs/
+	Castle Geyser/
+	Cliff Geyser/
+	Common Loon/
+	Dawn Chorus/
+	Dragon's Mouth Spring/
+	Geyser - Sawmill/
+	Mountain Bluebird/
+	Sandhill Crane/
+	Warbling Vireo/
+	Yellowstone Lake (singing)/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-05-22_02:07:43====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    American Robin/Sound Library - American Robin.mp3
+	deleted:    American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Canada Goose/Canada Goose.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Common Loon/Common Loon.mp3
+	deleted:    Mountain Bluebird/Sound Library - Mountain Bluebird.mp3
+	deleted:    Mountain Bluebird/Sound Library - Mountain Bluebird_NPS _ Neal Herbert_2015-06-17.jpg
+	deleted:    Mud Pots/Sound Library - Fountain Paint Pot.mp3
+	deleted:    Mud Pots/Sound Library - Fountain Paint Pot_NPS_Neal Herbert_2014-05-01.jpg
+	deleted:    Sandhill Crane/Sound Library - Sandhill Crane.mp3
+	deleted:    Sandhill Crane/Sound Library - Sandhill Crane_NPS_Neal Herbert_2015-04-25.jpg
+	deleted:    Spadefoot Toad/Spadefoot Toad.mp3
+	deleted:    Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake.mp3
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bird - American Robin/
+	Bird - Bald Eagle/
+	Bird - Common Loon/
+	Bird - Mountain Bluebird/
+	Bird - Sandhill Crane/
+	Bird - Townsend's Solitaire/
+	Canada Goose/
+	Fountain Paint Pot/
+	Frogs (boreal chorus)/
+	Singing Lake/
+	Toad (Spadefoot)/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-05-29_02:08:18====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Bird - American Robin/Sound Library - American Robin.mp3
+	deleted:    Bird - American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bird - Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Common Loon/Common Loon.mp3
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird.mp3
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird_NPS _ Neal Herbert_2015-06-17.jpg
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane.mp3
+	deleted:    Bird - Sandhill Crane/Sound Library - Sandhill Crane_NPS_Neal Herbert_2015-04-25.jpg
+	deleted:    Bird - Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Canada Goose/Canada Goose.mp3
+	deleted:    Fountain Paint Pot/Sound Library - Fountain Paint Pot.mp3
+	deleted:    Fountain Paint Pot/Sound Library - Fountain Paint Pot_NPS_Neal Herbert_2014-05-01.jpg
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs.mp3
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Singing Lake/Sound Library - Singing Lake.mp3
+	deleted:    Singing Lake/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+	deleted:    Toad (Spadefoot)/Spadefoot Toad.mp3
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	American Robin/
+	Bald Eagle/
+	Bird - Canada Goose/
+	Boreal Chorus Frogs/
+	Common Loon/
+	Mountain Bluebird/
+	Mud Pots/
+	Sandhill Crane/
+	Spadefoot Toad/
+	Townsend's Solitaire/
+	Yellowstone Lake (singing)/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-06-05_02:09:43====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+==================2020-06-12_02:08:43====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    American Dipper/Sound Library - American Dipper.mp3
+	deleted:    American Dipper/Sound Library - American Dipper_NPS _ Jacob W. Frank_2014-02-26.jpg
+	deleted:    American Robin/Sound Library - American Robin.mp3
+	deleted:    American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bald Eagle/Sound Library - Bald Eagle.mp3
+	deleted:    Bald Eagle/Sound Library - Bald Eagle_NPS _ Jim Peaco_2016-09-14.jpg
+	deleted:    Bird - Canada Goose/Canada Goose.mp3
+	deleted:    Bird - Killdeer/Sound Library - Killdeer.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs.mp3
+	deleted:    Boreal Chorus Frogs/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Castle Geyser/Sound Library - Castle Geyser.mp3
+	deleted:    Castle Geyser/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Cliff Geyser/Sound Library - Cliff Geyser.mp3
+	deleted:    Cliff Geyser/Sound Library - Cliff Geyser_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Dawn Chorus/Sound Library - Dawn Chorus.mp3
+	deleted:    Dawn Chorus/Sound Library - Dawn Chorus_NPS_Neal Herbert_2014-06-28.jpg
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth.mp3
+	deleted:    Dragon's Mouth Spring/Sound Library - The Dragon's Mouth_NPS_Neal Herbert_2013-10-29.jpg
+	deleted:    Geyser - Veteran/Sound Library - Veteran Geyser.mp3
+	deleted:    Mountain Bluebird/Sound Library - Mountain Bluebird.mp3
+	deleted:    Mountain Bluebird/Sound Library - Mountain Bluebird_NPS _ Neal Herbert_2015-06-17.jpg
+	deleted:    Ruffed Grouse/Sound Library - Ruffed Grouse.mp3
+	deleted:    Ruffed Grouse/Sound Library - Ruffed Grouse_NPS_Neal Herbert_2014-05-25.jpg
+	deleted:    Townsend's Solitaire/Townsend's Solitaire.mp3
+	deleted:    Warbling Vireo/Warbling Vireos.mp3
+	deleted:    Warbling Vireo/Warbling Vireos_NPS _ Neal Herbert_2015-07-05.jpg
+	deleted:    Wildfire/Sound Library - Fire.mp3
+	deleted:    Wildfire/Sound Library - Fire_NPS_Jennifer Jerrett_2016-08-14.jpg
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake.mp3
+	deleted:    Yellowstone Lake (singing)/Sound Library - Singing Lake_NPS _ Jim Peaco_2013-12-17.jpg
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Bird - American Dipper/
+	Bird - American Robin/
+	Bird - Bald Eagle/
+	Bird - Mountain Bluebird/
+	Bird - Ruffed Grouse/
+	Bird - Townsend's Solitaire/
+	Bird - Warbling Vireo/
+	Birds - Dawn Chorus/
+	Canada Goose/
+	Fire/
+	Frogs (boreal chorus)/
+	Geyser - Castle/
+	Geyser - Cliff/
+	Killdeer/
+	Singing Lake/
+	The Dragon's Mouth/
+	Veteran Geyser/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-06-19_02:08:44====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    Bird - American Robin/Sound Library - American Robin.mp3
+	deleted:    Bird - American Robin/Sound Library - American Robin_NPS _ Neal Herbert_2016-05-06.jpg
+	deleted:    Bird - Common Raven/Sound Library - Common Raven.mp3
+	deleted:    Bird - Common Raven/Sound Library - Common Raven_NPS_Neal Herbert_2013-10-23.jpg
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird.mp3
+	deleted:    Bird - Mountain Bluebird/Sound Library - Mountain Bluebird_NPS _ Neal Herbert_2015-06-17.jpg
+	deleted:    Bird - Warbling Vireo/Warbling Vireos.mp3
+	deleted:    Bird - Warbling Vireo/Warbling Vireos_NPS _ Neal Herbert_2015-07-05.jpg
+	deleted:    Canada Goose/Canada Goose.mp3
+	deleted:    Fire/Sound Library - Fire.mp3
+	deleted:    Fire/Sound Library - Fire_NPS_Jennifer Jerrett_2016-08-14.jpg
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs.mp3
+	deleted:    Frogs (boreal chorus)/Sound Library - Chorus Frogs_NPS _ Neal Herbert_2015-04-27.jpg
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser.mp3
+	deleted:    Geyser - Castle/Sound Library - Castle Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Geyser - Sawmill/Sound Library - Sawmill Geyser.mp3
+	deleted:    Geyser - Sawmill/Sound Library - Sawmill Geyser_NPS_Neal Herbert_2014-02-26.jpg
+	deleted:    Killdeer/Sound Library - Killdeer.mp3
+	deleted:    Spadefoot Toad/Spadefoot Toad.mp3
+	deleted:    Veteran Geyser/Sound Library - Veteran Geyser.mp3
+	deleted:    Western Meadow Lark/Western Meadow Lark.mp3
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	American Robin/
+	Bird - Canada Goose/
+	Bird - Killdeer/
+	Bird - Western Meadow Lark/
+	Boreal Chorus Frogs/
+	Castle Geyser/
+	Common Raven/
+	Geyser - Veteran/
+	Mountain Bluebird/
+	Sawmill Geyser/
+	Toad (Spadefoot)/
+	Warbling Vireo/
+	Wildfire/
+
+no changes added to commit (use "git add" and/or "git commit -a")\n=========================================================
+==================2020-06-26_02:09:51====================\nOn branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean\n=========================================================
+\n==================2020-06-28_06:12:26====================\n
+
+==================2020-06-28_06:17:10====================
+
+
+==================2020-07-03_02:11:04====================
+
+
+==================2020-07-10_02:11:09====================
+
+
+==================2020-07-17_02:11:53====================
+
+
+==================2020-07-24_02:12:38====================
+
+
+==================2020-07-31_02:12:51====================
+
+
+==================2020-08-07_02:13:03====================
+
+
+==================2020-08-14_02:14:02====================
+
+
+==================2020-08-21_02:14:38====================
+
+
+==================2020-08-28_02:15:55====================
+
+
+==================2020-09-04_02:15:34====================
+
+
+==================2020-09-11_02:15:32====================
+
+
+==================2020-09-18_02:16:56====================
+
+
+==================2020-09-25_02:16:30====================
+
+
+==================2020-10-02_02:17:31====================
+
+
+==================2020-10-09_02:18:32====================
+
+
+==================2020-10-16_02:18:48====================
+
+
+==================2020-10-23_02:19:50====================
+
+
+==================2020-10-30_02:11:57====================
+
+
+==================2020-11-06_02:15:27====================
+
+
+==================2020-11-13_02:14:53====================
+
+
+==================2020-11-20_02:16:42====================
+
+
+==================2020-11-27_02:18:31====================
+
+
+==================2020-12-04_02:18:54====================
+
+
+==================2020-12-11_02:26:59====================
+
+
+==================2020-12-18_02:35:02====================
+
+
+==================2020-12-25_02:39:28====================
+
+
+==================2021-01-01_02:48:06====================
+
+
+==================2021-01-08_02:58:45====================
+
+
+==================2021-01-15_03:12:48====================
+
+
+==================2021-01-22_03:16:11====================
+
+
+==================2021-01-29_02:37:00====================
+
+
+==================2021-02-05_02:21:26====================
+
+
+==================2021-02-12_02:21:38====================
+
+
+==================2021-02-19_02:22:40====================
+
+
+==================2021-02-26_02:27:03====================
+
+
+==================2021-03-05_02:29:00====================
+
+
+==================2021-03-12_02:33:45====================
+
+
+==================2021-03-19_02:35:35====================
+
+
+==================2021-03-26_02:16:14====================
+
+
+==================2021-04-02_02:31:07====================
+
+
+==================2021-04-09_02:23:43====================
+
+
+==================2021-04-16_02:24:34====================
+
+
+==================2021-04-23_02:27:26====================
+
+
+==================2021-04-30_02:24:05====================
+
+
+==================2021-05-07_02:44:17====================
+
+
+==================2021-05-14_02:50:08====================
+
+
+==================2021-05-21_02:48:07====================
+
+
+==================2021-05-28_04:12:58====================
+
+
+==================2021-06-04_04:13:39====================
+
+
+==================2021-06-11_02:42:04====================
+
+
+==================2021-06-18_02:37:43====================
+
+
+==================2021-06-25_02:28:09====================
+
+
+==================2021-07-02_02:27:49====================
+
+
+==================2021-07-09_02:28:24====================
+
+
+==================2021-07-16_02:29:11====================
+
+
+==================2021-07-23_02:28:41====================
+
+
+==================2021-07-30_02:31:27====================
+
+
+==================2021-08-06_02:26:44====================
+
+
+==================2021-08-13_02:26:35====================
+
+
+==================2021-08-20_02:26:08====================
+
+
+==================2021-08-27_02:27:33====================
+
+
+==================2021-09-03_02:27:19====================
+
+
+==================2021-09-03_08:52:56====================
+
+
+==================2021-09-10_02:28:00====================
+
+
+==================2021-09-17_02:30:28====================
+
+
+==================2021-09-24_02:27:54====================
+
+
+==================2021-10-01_02:34:45====================
+
+
+==================2021-10-08_02:31:50====================
+
+
+==================2021-10-15_02:29:32====================
+
+
+==================2021-10-22_02:32:36====================
+
+
+==================2021-10-29_02:29:05====================
+
+
+==================2021-11-05_02:30:30====================
+
+
+==================2021-11-12_02:30:40====================
+
+
+==================2021-11-19_02:31:22====================
+
+
+==================2021-11-26_02:31:19====================
+
+
+==================2021-12-03_02:31:49====================
+
+
+==================2021-12-10_02:32:48====================
+
+
+==================2021-12-17_02:35:31====================
+
+
+==================2021-12-24_02:35:49====================
+
+
+==================2021-12-31_02:37:56====================
+
+
+==================2022-01-07_02:41:29====================
+
+
+==================2022-01-14_02:39:26====================
+
+
+==================2022-01-21_02:30:27====================
+
+
+==================2022-01-28_02:32:32====================
+
+
+==================2022-02-04_02:18:46====================
+
+
+==================2022-02-11_02:31:50====================
+
+
+==================2022-02-18_02:32:54====================
+
+
+==================2022-02-25_02:34:27====================
+
+
+==================2022-03-04_02:43:57====================
+
+
+==================2022-03-11_02:41:44====================
+
+
+==================2022-03-18_02:44:38====================
+
+
+==================2022-03-25_02:46:12====================
+
+
+==================2022-04-01_03:16:59====================
+
+
+==================2022-04-08_03:02:10====================
+
+
+==================2022-04-15_03:36:24====================
+
+
+==================2022-04-22_03:47:07====================
+
+
+==================2022-04-29_03:27:20====================
+
+
+==================2022-05-06_03:06:43====================
+
+
+==================2022-05-13_03:51:18====================
+
+
+==================2022-05-20_03:16:54====================
+
+
+==================2022-05-27_03:27:13====================
+
+
+==================2022-06-03_03:13:13====================
+
+
+==================2022-06-10_03:22:11====================
+
+
+==================2022-06-17_03:25:29====================
+
+
+==================2022-06-24_03:43:28====================
+
+
+==================2022-07-01_03:56:45====================
+
